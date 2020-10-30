@@ -1,0 +1,12 @@
+Using TensorFlow backend.
+Processing ./input/models/training.mega.txt
+Loading quiz 1000000...
+Building a model...
+
+Compiling (this will take a while)...
+Epoch 1/2
+800000/800000 [==============================] - 2597s 3ms/step - loss: 0.1217
+Epoch 2/2
+800000/800000 [==============================] - 2688s 3ms/step - loss: 0.0742
+Done. File saved as: ./input/models/model.mega.h5
+Elapsed time is 5285.280308 seconds.
